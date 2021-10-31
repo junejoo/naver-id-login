@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">myapp</string>
+
+    <string name="naver_client_id">qfTqI0Ahb9r5N9226Uxs</string>
+    <string name="naver_client_secret">0v10TKGBPM</string>
+    <string name="naver_client_name">snslogin</string>
+</resources>
